@@ -1,4 +1,4 @@
-# Typing_tutor
+# Typing tutor
 
 * Users can practice their typing skills in 3 different levels.
 
